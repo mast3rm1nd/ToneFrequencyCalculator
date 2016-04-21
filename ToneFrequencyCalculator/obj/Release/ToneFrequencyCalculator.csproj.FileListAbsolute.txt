@@ -1,0 +1,5 @@
+E:\Dropbox\!Coding\All_in_one\ToneFrequencyCalculator\ToneFrequencyCalculator\bin\Release\ToneFrequencyCalculator.exe.config
+E:\Dropbox\!Coding\All_in_one\ToneFrequencyCalculator\ToneFrequencyCalculator\bin\Release\ToneFrequencyCalculator.exe
+E:\Dropbox\!Coding\All_in_one\ToneFrequencyCalculator\ToneFrequencyCalculator\bin\Release\ToneFrequencyCalculator.pdb
+E:\Dropbox\!Coding\All_in_one\ToneFrequencyCalculator\ToneFrequencyCalculator\obj\Release\ToneFrequencyCalculator.exe
+E:\Dropbox\!Coding\All_in_one\ToneFrequencyCalculator\ToneFrequencyCalculator\obj\Release\ToneFrequencyCalculator.pdb

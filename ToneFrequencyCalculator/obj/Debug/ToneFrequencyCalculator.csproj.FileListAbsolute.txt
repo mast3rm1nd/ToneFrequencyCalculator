@@ -1,0 +1,6 @@
+E:\Dropbox\!Coding\All_in_one\ToneFrequencyCalculator\ToneFrequencyCalculator\bin\Debug\ToneFrequencyCalculator.exe.config
+E:\Dropbox\!Coding\All_in_one\ToneFrequencyCalculator\ToneFrequencyCalculator\bin\Debug\ToneFrequencyCalculator.exe
+E:\Dropbox\!Coding\All_in_one\ToneFrequencyCalculator\ToneFrequencyCalculator\bin\Debug\ToneFrequencyCalculator.pdb
+E:\Dropbox\!Coding\All_in_one\ToneFrequencyCalculator\ToneFrequencyCalculator\obj\Debug\ToneFrequencyCalculator.csprojResolveAssemblyReference.cache
+E:\Dropbox\!Coding\All_in_one\ToneFrequencyCalculator\ToneFrequencyCalculator\obj\Debug\ToneFrequencyCalculator.exe
+E:\Dropbox\!Coding\All_in_one\ToneFrequencyCalculator\ToneFrequencyCalculator\obj\Debug\ToneFrequencyCalculator.pdb
